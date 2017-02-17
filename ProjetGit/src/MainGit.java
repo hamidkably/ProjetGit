@@ -5,7 +5,7 @@ public class MainGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello Git");
-		System.out.println("hello Git 2");
+		System.out.println("hello Git 3");
 
 	}
 
